@@ -1,7 +1,7 @@
 {
   "name": "deploy-to-1mb",
   "version": "0.0.1",
-  "description": "",
+  "description": "A command-line interface for https://1mb.site.",
   "keywords": [
     "1mb"
   ],
