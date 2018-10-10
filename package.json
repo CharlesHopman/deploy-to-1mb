@@ -1,0 +1,28 @@
+{
+  "name": "deploy-to-1mb",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "1mb"
+  ],
+  "license": "MIT",
+  "author": "Nathaniel Fredericks <me@nathfreder.tech> (https://nathfreder.tech)",
+  "main": "src/index.js",
+  "bin": {
+    "deploy-to-1mb": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.0",
+    "istextorbinary": "^2.2.1",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-google": "^0.10.0",
+    "prettier": "^1.14.3"
+  }
+}

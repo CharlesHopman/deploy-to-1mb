@@ -1,0 +1,12 @@
+{
+  "extends": ["eslint:recommended", "google"],
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-console": 0
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  }
+}
